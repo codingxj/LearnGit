@@ -2,3 +2,5 @@
 
 
 {"DeviceUniqueCode":"B25C2E","TimeStamp":"2020-09-01 16:40:36","Data":{"ClearPassRecord":"Y","ClearPerson":"N","ClearLog":"N"}}
+
+123
